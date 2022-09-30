@@ -1,1 +1,1 @@
-# inschools
+# inSchool
